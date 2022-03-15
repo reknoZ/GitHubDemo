@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  MainView.swift
 //  GitHubDemo
 //
 //  Created by Zicount on 15.03.22.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct MainView: View {
 	
 	// MARK: - Body
 	
@@ -19,6 +19,6 @@ struct ContentView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        MainView()
     }
 }
